@@ -2,10 +2,14 @@
   <library name="jquery" type="javaScript">
     <properties>
       <option name="frameworkName" value="jQuery" />
-      <option name="frameworkVersion" value="1.1." />
+      <option name="frameworkVersion" value="3.1.1" />
+      <sourceFilesUrls>
+        <item url="file://$USER_HOME$/Desktop/jquery-3.1.1.min.js" />
+      </sourceFilesUrls>
     </properties>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../jquery-3.1.1.min.js" />
+      <root url="file://$USER_HOME$/jquery-3.1.1.min.js" />
+      <root url="file://$USER_HOME$/Desktop/jquery-3.1.1.min.js" />
     </CLASSES>
     <DOCUMENTATION>
       <root url="http://api.jquery.com" />
